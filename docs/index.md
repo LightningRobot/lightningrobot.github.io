@@ -1,0 +1,18 @@
+---
+home: true
+heroText: 闪电机器人丨Lightning Robot
+actions:
+  - text: 快速上手🚀
+    link: /readme
+    type: primary
+  - text: 开发文档🎉
+    link: /dev
+    type: secondary
+  - text: 发行下载💿 
+    link: /download
+    type: secondary
+features:
+- title: 简介
+  details: 一个基于Python的轻快好用开源机器人框架。
+footer: Copyright © 2024-present Lightning Robot。
+---
