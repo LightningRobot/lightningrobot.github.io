@@ -1,0 +1,16 @@
+{
+  "name": "lightningrobot.github.io",
+  "version": "0.0.1",
+  "description": "闪电机器人官方网站",
+  "license": "MIT",
+  "repository": "https://github.com/LightningRobot/lightningrobot.github.io",
+  "homepage": "lightningrobot.github.io",
+  "author": "LightningRobot",
+  "devDependencies": {
+    "vuepress": "^2.0.0-rc.0"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
